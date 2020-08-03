@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [23/Jul/2020:21:55:27 +0800] "GET /ssm_web HTTP/1.1" 302 - http-bio-80-exec-1 0
+0:0:0:0:0:0:0:1 - - [23/Jul/2020:21:55:27 +0800] "GET /ssm_web/ HTTP/1.1" 302 - http-bio-80-exec-3 60
+0:0:0:0:0:0:0:1 - - [23/Jul/2020:21:55:27 +0800] "GET /ssm_web/login.jsp HTTP/1.1" 200 2579 http-bio-80-exec-4 473
+0:0:0:0:0:0:0:1 - - [23/Jul/2020:21:55:33 +0800] "POST /ssm_web/login.do HTTP/1.1" 200 12784 http-bio-80-exec-5 828
+0:0:0:0:0:0:0:1 - - [23/Jul/2020:21:55:35 +0800] "GET /ssm_web/product/findAll.do HTTP/1.1" 200 25141 http-bio-80-exec-6 275
+0:0:0:0:0:0:0:1 - - [23/Jul/2020:21:55:40 +0800] "GET /ssm_web/product/delete.do?id=CFD9842D2DF04D30B40A6549F66630FC HTTP/1.1" 302 - http-bio-80-exec-7 30
+0:0:0:0:0:0:0:1 - - [23/Jul/2020:21:55:40 +0800] "GET /ssm_web/product/findAll.do HTTP/1.1" 200 25017 http-bio-80-exec-8 19

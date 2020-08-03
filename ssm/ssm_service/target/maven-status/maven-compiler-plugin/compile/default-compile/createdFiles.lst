@@ -1,0 +1,12 @@
+com\wx\ssm_service\impl\RoleServiceImpl.class
+com\wx\ssm_service\impl\UserServiceImpl.class
+com\wx\ssm_service\impl\ProductServiceImpl.class
+com\wx\ssm_service\impl\PermissionServiceImpl.class
+com\wx\ssm_service\impl\SysLogServiceImpl.class
+com\wx\ssm_service\IProductService.class
+com\wx\ssm_service\IUserService.class
+com\wx\ssm_service\IOrdersService.class
+com\wx\ssm_service\impl\OrdersServiceImpl.class
+com\wx\ssm_service\IRoleService.class
+com\wx\ssm_service\ISysLogService.class
+com\wx\ssm_service\IPermissionService.class
